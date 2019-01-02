@@ -1,0 +1,19 @@
+Boston, New York
+Philadelphia, Newark
+Newark, Boston
+Trenton, Stamford
+
+
+New York, Parsippany
+
+
+Albany , Parsippany
+,
+New Brunswick,
+Princeton
+Newark,         Old Bridge
+Old Bridge, Wilmington
+
+
+,,,,,,,,,,,,,,,,
+
